@@ -1,0 +1,27 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+/*.app {
+  display: flex;
+  flex-direction: column;
+}
+
+  .app-row {
+    flex-direction: row;
+  }
+
+  .header {
+    background-color: #FFC;
+  }
+
+
+    .iconAttribution {
+      font-size: 10px;
+      text-align: right;
+    }*/
