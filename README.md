@@ -5,7 +5,7 @@
  - This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
- ![](https://raw.githubusercontent.com/StAmourD/ZeroBasedBudget/readme/screenshot.png)
+ ![](readme/screenshot.png)
 
 # Getting Started
 //TODO
