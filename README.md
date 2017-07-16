@@ -17,3 +17,4 @@ A toy project to learn react.
 ## Install ZBB
  - Clone this repo
  - Run `npm install` from the newly created folder
+ - Run `npm start` to run create react app locally in debug mode
