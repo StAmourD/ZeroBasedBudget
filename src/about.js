@@ -18,6 +18,8 @@ export default class About extends React.Component {
             <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">
               CC 3.0 BY</a>
           </div>
+          <hr/>
+          <a rel="nofollow" href="https://www.vecteezy.com/">Vector Art by Vecteezy!</a>
         </div>
       </div>
     )

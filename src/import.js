@@ -4,7 +4,6 @@ import {
   FormGroup,
   ControlLabel,
   FormControl,
-  Panel,
   Col,
   Button,
   Row

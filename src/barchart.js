@@ -1,6 +1,5 @@
 import React from 'react';
 import './index.css';
-import {Button} from 'react-bootstrap';
 
 export default class BarChart extends React.Component {
   render() {

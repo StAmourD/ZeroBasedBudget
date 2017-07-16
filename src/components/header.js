@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import testImage from '../img/test-image.jpg';
+import testImage from '../img/wallet.png';
 import {LinkContainer} from 'react-router-bootstrap';
 import {Image, Navbar, Nav, NavItem} from 'react-bootstrap';
 

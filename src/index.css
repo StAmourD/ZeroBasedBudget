@@ -7,21 +7,9 @@ ol, ul {
   padding-left: 30px;
 }
 
-/*.app {
-  display: flex;
-  flex-direction: column;
+.zbb-is-negative {
+   color: #f44336;
 }
-
-  .app-row {
-    flex-direction: row;
-  }
-
-  .header {
-    background-color: #FFC;
-  }
-
-
-    .iconAttribution {
-      font-size: 10px;
-      text-align: right;
-    }*/
+.zbb-is-zero {
+   color: #00ffff;
+}
