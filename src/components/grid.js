@@ -4,10 +4,13 @@ import {Panel, ListGroup, ListGroupItem, Col, Row} from 'react-bootstrap';
 import GridRow from './grid-row';
 
 export default class Grid extends React.Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
+    let toExpand = this.props.expanded === false
+      ? this.props.expanded
+      : true;
     this.state = {
-      expanded: true
+      expanded: toExpand
     };
   }
 

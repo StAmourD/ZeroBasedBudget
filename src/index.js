@@ -64,7 +64,8 @@ class App extends React.Component {
           budgeted: 350
         }
       ],
-      display: 12
+      display: 12,
+      month: 'July'
     }
   }
 
@@ -99,7 +100,7 @@ class App extends React.Component {
         return row.type === 'income'
       })} expenseData={this.state.rowData.filter((row) => {
         return row.type === 'expense'
-      })} onClick={this.handleClick} handleChange={this.handleChange}/>);
+      })} onClick={this.handleClick} handleChange={this.handleChange} month={this.state.month}/>);
     }
 
     const BarChartPage = () => (<BarChart/>)

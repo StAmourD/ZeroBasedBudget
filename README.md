@@ -2,8 +2,8 @@
 A toy project to learn react.
 
 # Features
- - Based on [Google Sheet](https://drive.google.com/open?id=180U2w59CrWu-zsyfjhfRDwYmiKDfZNKwgTrhOnoEQBw) from [`StAmourD/BudgetSheet-Google-App-Script`](https://github.com/StAmourD/BudgetSheet-Google-App-Script)
- - This project was bootstrapped with [`Create React App`](https://github.com/facebookincubator/create-react-app).
+- This project was bootstrapped with [`Create React App`](https://github.com/facebookincubator/create-react-app).
+- Based on [Google Sheet](https://drive.google.com/open?id=180U2w59CrWu-zsyfjhfRDwYmiKDfZNKwgTrhOnoEQBw) from [`StAmourD/BudgetSheet-Google-App-Script`](https://github.com/StAmourD/BudgetSheet-Google-App-Script)
 
 
  ![](readme/screenshot.png)
